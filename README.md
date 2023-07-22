@@ -1,2 +1,2 @@
 # Hospital-Management-System
-It is a mini project, designing small hospital management system using C++. 
+It is a project for second year undergrad course, designing small hospital management system using C++. 
